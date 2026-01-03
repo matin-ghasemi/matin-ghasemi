@@ -50,3 +50,11 @@ I am always open to **Research Collaborations** and discussions on **AI in Healt
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="kaggle logo"  />
 </div>
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=matin-ghasemi&theme=dark&hide_border=true" width="50%" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark" width="20%" />
+</p>
