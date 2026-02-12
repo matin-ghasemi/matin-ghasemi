@@ -1,7 +1,7 @@
 ## Hi, I'm Matin Ghasemi 👋
 **Bioinformatics & AI Researcher | M.Sc. @ Amirkabir University of Technology**
 
-I am currently a Graduate Researcher at the **Computational Biology Research Center (CBRC)**, developing AI models for healthcare applications, particularly in medical imaging and biomedical data analysis to support disease understanding and clinical decision-making.
+I am currently a Graduate Researcher at the **Computational Biology Research Center (CBRC)**. I focus on developing AI models for healthcare applications, particularly in medical imaging and biomedical data analysis, to support disease understanding and clinical decision-making.
 
 
 ### 🔍 Research Interests
