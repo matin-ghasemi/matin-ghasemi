@@ -1,7 +1,7 @@
 ## Hi, I'm Matin Ghasemi 👋
 **Bioinformatics & AI Researcher | M.Sc. @ Amirkabir University of Technology**
 
-I am currently a Graduate Researcher at the **Computational Biology Research Center (CBRC)**. I am developing deep learning models to predict spatial RNA-Seq profiles directly from H&E-stained histopathology slides, aiming to make high-resolution spatial data more accessible and clinically applicable.
+I am currently a Graduate Researcher at the **Computational Biology Research Center (CBRC)**, developing AI models for healthcare applications, particularly in medical imaging and biomedical data analysis to support disease understanding and clinical decision-making.
 
 
 ### 🔍 Research Interests
